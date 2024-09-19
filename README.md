@@ -28,4 +28,6 @@ The dataset is highly imbalanced, with the majority of transactions being non-fr
 2. **Model Training**: Train multiple models including Logistic Regression, Support Vector Machine (SVM), and Random Forest Classifier (RFC), with a focus on evaluating their performance on the imbalanced dataset.
 3. **Model Evaluation**: Evaluate the models using confusion matrix, precision, recall, and F1-score to determine which one performs best for fraud detection.
 
+# Next Steps 
 
+even though using the Random Forest Classifier significantly increased precision and recall there is still much room for improvement. I tried to further tune the model and add class weights using GridSearchCV, however I could not run the model in a sensible time due to my own hardware restrictions. 
