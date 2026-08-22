@@ -1,8 +1,7 @@
 # Credit Card Fraud Detection
 
-09/2024 <br>
-Personal Project <br>
-*Last Updated: 08/2026*
+> Personal Project <br>
+> 09/2024 <br>
 
 ## Project Overview
 
